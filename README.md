@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##About##
+## About ##
 My name is Tias Mardiansyah, and I am a full-stack developer, who mostly work with mobile app and Desktop app. I am currently learning Spring.
 
 ## Programming Language  ##
-Java
-PHP 
-Dart
+1.Java
+2.PHP 
+3.Dart
 
 ## Framework Used ##
-Spring
-CodeIgniter
-Flutter
+1.Spring
+2.CodeIgniter
+3.Flutter
 	
