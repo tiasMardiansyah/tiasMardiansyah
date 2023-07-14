@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##About##
+My name is Tias Mardiansyah, and I am a full-stack developer, who mostly work with mobile app and Desktop app. I am currently learning Spring.
+
+## Programming Language  ##
+Java
+PHP 
+Dart
+
+## Framework Used ##
+Spring
+CodeIgniter
+Flutter
+	
