@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 My name is Tias Mardiansyah, and I am a full-stack developer, who mostly work with mobile app and Desktop app. I am currently learning Spring.
 
 ## Programming Language  ##
-1.Java
-2.PHP 
-3.Dart
+1. Java
+2. PHP 
+3. Dart
 
 ## Framework Used ##
-1.Spring
-2.CodeIgniter
-3.Flutter
+1. Spring
+2. CodeIgniter
+3. Flutter
 	
