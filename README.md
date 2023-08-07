@@ -16,15 +16,23 @@ Here are some ideas to get you started:
 -->
 
 ## About ##
-My name is Tias Mardiansyah, and I am a full-stack developer, who mostly work with mobile app and Desktop app. I am currently learning Spring.
+My name is Tias Mardiansyah, and I am a software developermostly work with backend.
 
-## Programming Language  ##
-1. Java
-2. PHP 
-3. Dart
-
-## Framework Used ##
-1. Spring
-2. CodeIgniter
-3. Flutter
-	
+<ul>
+  <li>Used proggraming language
+    <ul>
+      	<li>Java</li>
+	<li>PHP</li>
+      	<li>Kotlin</li>
+      	<li>Dart</li>
+      	<li>C</li>
+    </ul>
+  </li>
+  <li>Framework that i am using
+  	<ul>
+      		<li>Spring</li>
+		<li>Quarkus</li>
+		<li>CodeIgniter</li>
+    	</ul>
+  </li>
+</ul>
