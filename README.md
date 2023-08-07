@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About ##
-My name is Tias Mardiansyah, and I am a software developermostly work with backend.
+My name is Tias Mardiansyah, and I am a software developer mostly work with backend.
 
 <ul>
   <li>Used proggraming language
@@ -28,11 +28,12 @@ My name is Tias Mardiansyah, and I am a software developermostly work with backe
       	<li>C</li>
     </ul>
   </li>
-  <li>Framework that i am using
+  <li>Used Framework
   	<ul>
       		<li>Spring</li>
 		<li>Quarkus</li>
 		<li>CodeIgniter</li>
+		<li>Flutter</li>
     	</ul>
   </li>
 </ul>
