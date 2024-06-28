@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 My name is Tias Mardiansyah, and I am a software developer who mostly work with backend.
 
 <ul>
-  <li>Used proggraming language
+  <li>Programming language that i have experience with
     <ul>
       	<li>Java</li>
 	<li>PHP</li>
@@ -28,9 +28,9 @@ My name is Tias Mardiansyah, and I am a software developer who mostly work with 
       	<li>C</li>
     </ul>
   </li>
-  <li>Used Framework
+  <li>Programming framework that i have experience with
   	<ul>
-      		<li>Spring</li>
+		<li>Spring</li>
 		<li>Quarkus</li>
 		<li>CodeIgniter</li>
 		<li>Flutter</li>
