@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About ##
-My name is Tias Mardiansyah, and I am a software developer who mostly work with backend.
+My name is Tias Mardiansyah, and I am a software developer.
 
 <ul>
   <li>Programming language that i have experience with
