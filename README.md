@@ -16,24 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## About ##
-My name is Tias Mardiansyah, and I am a software developer.
-
-<ul>
-  <li>Programming language that i have experience with
-    <ul>
-      	<li>Java</li>
-	<li>PHP</li>
-      	<li>Kotlin</li>
-      	<li>Dart</li>
-      	<li>C</li>
-    </ul>
-  </li>
-  <li>Programming framework that i have experience with
-  	<ul>
-		<li>Spring</li>
-		<li>Quarkus</li>
-		<li>CodeIgniter</li>
-		<li>Flutter</li>
-    	</ul>
-  </li>
-</ul>
+My name is Tias Mardiansyah. Software developer with 2 years of expertise, mostly work on backend development using Java
