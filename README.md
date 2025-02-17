@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About ##
-My name is Tias Mardiansyah. Software developer with 2 years of expertise, mostly work on backend development using Java
+## About Me ##
+My name is Tias Mardiansyah. Software developer with 2 years of expertise, mostly work on backend development using Java, but sometime work on frontend. 
+
+ 
