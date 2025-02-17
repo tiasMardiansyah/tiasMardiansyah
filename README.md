@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## About Me ##
-My name is Tias Mardiansyah. Software developer with 2 years of expertise, mostly work on backend development using Java, but sometime work on frontend. 
+My name is Tias Mardiansyah. Software developer with 2 years of expertise, mostly work on backend using Java, but sometime work on frontend. 
 
  
