@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## About Me ##
-My name is Tias Mardiansyah. Software developer with 3 years of expertise, mostly work on backend, but sometime work on frontend. Do not expect much, i not that good at programming
-
+My name is Tias Mardiansyah. Software developer with 3 years of expertise, mostly work on Backend development, Mobile app development, and LLM integration. Do not expect much, i not that good.
  
