@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="http://media1.tenor.com/m/WO-ASL96CtIAAAAd/mizuki-akiyama-chibi.gif" />
+</p>
+
 ## About Me ##
 My name is Tias Mardiansyah. Software developer from indonesia, mostly work on Backend development, Mobile app development, and LLM integration. Do not expect much, i'm not that good.
  
