@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="http://media1.tenor.com/m/WO-ASL96CtIAAAAd/mizuki-akiyama-chibi.gif" />
+  <img src="https://media.tenor.com/Em4DikRlBNIAAAAM/mizuki.gif" />
 </p>
 
 ## About Me ##
